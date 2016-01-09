@@ -1,0 +1,11 @@
+storage
+compile-cache
+packages
+blob-store
+dev
+.npm
+.node-gyp
+.apm
+
+
+projects.cson

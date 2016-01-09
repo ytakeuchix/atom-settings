@@ -1,0 +1,26 @@
+"*":
+  welcome:
+    showOnStartup: false
+  editor:
+    invisibles: {}
+    softTabs: false
+    fontFamily: "Ricty Diminished"
+    fontSize: 17
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    showInvisibles: true
+  core:
+    audioBeep: false
+    themes: [
+      "atom-light-ui"
+      "monokai"
+    ]
+  "markdown-preview":
+    useGitHubStyle: true
+  "japanese-wrap":
+    characterWidth: {}
+  "markdown-pdf": {}
+  "wrap-style": {}
+  "one-light-ui": {}
+  "exception-reporting":
+    userId: "92f554ba-6c5a-41fb-19a9-4ec5bdb51771"
