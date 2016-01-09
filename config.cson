@@ -4,7 +4,7 @@
   editor:
     invisibles: {}
     softTabs: false
-    fontFamily: "Ricty Diminished"
+    fontFamily: "Yu Gothic UI"
     fontSize: 17
     softWrap: true
     softWrapAtPreferredLineLength: true
